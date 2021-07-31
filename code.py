@@ -6,7 +6,7 @@ import holidays
 import time
 import os
 
-# Inicializing Chrome Webdriver
+# Initializing Chrome Webdriver
 options = webdriver.ChromeOptions()
 options.binary_location = "C:/Program Files/Google/Chrome/Application/chrome.exe" # Google Chrome path in local directory. <CHANGE>
 chrome_driver_binary = "C:/Program Files/Google/Chrome/Application/chromedriver.exe" # WebDriver path in Local directory. <CHANGE>
