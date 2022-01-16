@@ -1,6 +1,4 @@
-This project is about automatizing monthly routines, mainly the Download and Rename files from POP - LUZ system.
-POP refers to 'Provedora Oficial de Preços' and is the reference source for brazilian private fixed-income securities prices. Thus, the webscrapping code available in 'code.py'
-file makes the process easier and faster for all users, requiring only a few adjustments by the user:
+This project is about automatizing monthly routines, mainly the Download and Rename files. The webscrapping code available in 'code.py' file makes the process easier and faster for all users, requiring only a few adjustments by the user:
 
 ---------------- Importing Libraries
 To install libraries, perform the following lines of code in "Terminal" (if using Pycharm).
